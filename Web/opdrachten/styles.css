@@ -1,0 +1,8 @@
+#image{
+    text-align: center;
+}
+    
+.rotated-image {
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg)
+}
